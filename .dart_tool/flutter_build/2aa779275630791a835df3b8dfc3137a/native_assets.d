@@ -1,0 +1,1 @@
+ /Users/mac/StudioProjects/CELEC/.dart_tool/flutter_build/2aa779275630791a835df3b8dfc3137a/native_assets.yaml: 
